@@ -1,0 +1,1 @@
+# Lightweight-Predictive-Gaussian-Splats
